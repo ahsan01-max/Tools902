@@ -8,5 +8,9 @@ public class Proj1 {
 	public String CCard() {
 		return "Credit Card Implementd";
 	}
+	
+	public String Debit() {
+		return "Debit Implemented";
+	}
 
 }
