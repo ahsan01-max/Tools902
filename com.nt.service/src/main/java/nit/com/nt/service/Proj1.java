@@ -2,7 +2,7 @@ package nit.com.nt.service;
 
 public class Proj1 {
 	public String UPIPayment() {
-		return "UPI Implemented";
+		return "UPI Implemented";//9999
 	}
 	 
 	public String CCard() {
